@@ -1,0 +1,121 @@
+body{
+	background-image: url(http://www.planwallpaper.com/static/images/geometric-background-3.jpg);
+}
+.principallabel{
+	color: #D8AAB2;
+}
+.principallabel h1{
+	font-size: 80px;
+	text-shadow: 1px 2px 0 #000;
+	padding-left: 10%;
+	font-family: "Pacifico";
+
+}
+.principallabel img{
+	width: 75%;
+
+}
+.mision-p2 p{
+	margin-top: 70px;
+
+}
+.panel-footer{
+	background-color: #000;
+	color: #FFF;
+	text-transform: uppercase;
+}
+.navbar-default{
+	background-color: #58B255;
+	border-bottom: solid 2px black;
+	box-shadow: 0 0.5px;
+	margin-top: -50px;
+}
+.navbar-default .navbar-brand{
+	padding-left: 20px;
+	color: white;
+	text-shadow: 1px 2px 0 #000;
+}
+.navbar-default .navbar-nav>li>a{
+	padding-left: 20px;
+	color: white;
+	text-shadow: 1px 2px 0 #000;
+	font-size: 20px;
+}
+#nav-nosotros{
+	margin-top: 0;
+}
+.home-icon{
+	font-size: 150%;
+	margin-top: -2px;
+}
+.globe-icon{
+	font-size: 1000%;
+	text-align: center;
+}
+.navbar-header{
+	float: right;
+}
+.label1{
+	margin-top: -20px;
+	background-color: #FF67B9;
+}
+.mission-p{
+	padding-top: 70px;
+}
+.nosotros{
+color: #000;
+}
+.nosotros p{
+	font-size: 15px;
+}
+.nosotros h1{
+	color: #FFF;
+	text-shadow: 1px 3px 2px #000;
+}
+.label2{
+	margin-top: 0px;
+	background-color: white;
+	box-shadow: 0px 1px;
+	padding-left: 50px;
+}
+.label2 img{
+	padding: 50px 0 0 20px;
+}
+.label3{
+	background-color: #FFF;
+}
+.label4{
+	margin-top: 0px;
+	background-color: #000;
+	box-shadow: 0px 1px;
+}
+.heart img{
+	width: 80%;
+	padding-top: 20px;
+	padding-left
+}
+.label1-nosotros{
+	margin-top: 50px;
+	background-color: #FFF;
+}
+.mission p{
+	text-transform: uppercase;
+}
+.what-is{
+	padding-top: 50px; 
+}
+.sintomas{
+	border-left: solid 2px #000;
+}
+.sintomas p{
+	padding-left: 20px;
+}
+.icons p{
+	font-size: 100px;
+	text-align: center;
+}
+.noticias h1{
+	color: #FFF;
+	text-shadow: 1px 3px 2px #000;
+
+}
